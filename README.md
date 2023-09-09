@@ -41,6 +41,7 @@
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
+<!--
 ## 📊 My GitHub Data:
 
 <div align="center">
@@ -48,7 +49,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmannankhann&" alt="soumyajit" />
 </div>
 
-<!--
 **Abdulmannankhann/Abdulmannankhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
